@@ -1,4 +1,4 @@
-##Hello, it is **Sevda** here!
+### Hello, it is Sevda here!
 
 I am an ex-fashion designer | physical product developer, passionate about building thoughtful things, arts, and cognitive science.
 
