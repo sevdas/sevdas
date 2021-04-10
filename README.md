@@ -1,6 +1,4 @@
-### Hello, it is Sevda is here! 
-
-[Sevda Shukrieva 🔊](https://namedrop.io/sevdashukrieva)
+### Hello, it is [Sevda 🔊](https://namedrop.io/sevdashukrieva) is here! 
 
 I am an ex-fashion designer | physical product developer, passionate about building thoughtful things, branding, visual arts, and cognitive science.
 
