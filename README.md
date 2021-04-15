@@ -9,4 +9,4 @@ and become a full-stack JavaScript developer.
 
 [My LinkedIn profile!](https://www.linkedin.com/in/sshukrieva/)
 
-When not coding, I enjoy coocking with friends and family, doodling, streaming arthouse cinema, hiking, reading memoirs, playing mucis -> [here is my playlist](https://open.spotify.com/user/ss_official)
+💁 When not coding, I enjoy coocking with friends and family, doodling, streaming arthouse cinema, hiking, reading memoirs, either playing mucis -> [here is my playlist](https://open.spotify.com/user/ss_official)
