@@ -9,6 +9,8 @@ and become a full-stack JavaScript developer.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-sshukrieva-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sshukrieva/)
 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-sevdas-informational?style=flat-square&logoColor=f4f6ef&color=fa2806)](https://sevdas.github.io/portfolio/)
+
 
 
 - 💁 When not coding, I enjoy coocking with friends and family, doodling, streaming arthouse cinema, being in the nature, reading non-fiction mostly memoirs, playing mucis: [🎵🎵🎵](https://open.spotify.com/user/ss_official)
