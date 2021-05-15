@@ -7,9 +7,9 @@ problem-solving skills, plus I could still build stuff yet in a more sustainable
 I build my own website from scratch so I can be a part of the community-made out of great values named [Founders and Coders](https://www.foundersandcoders.com/) 
 and become a full-stack JavaScript developer. 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-sshukrieva-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sshukrieva/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-sshukrieva-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sshukrieva/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-sevdas-informational?style=flat-square&logoColor=f4f6ef&color=fa2806)](https://sevdas.github.io/portfolio/)
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-sevdas-informational?style=flat-square&logoColor=f4f6ef&color=fa2806)](https://sevdas.github.io/portfolio/)
+
 
 
 
