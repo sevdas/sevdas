@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#F55883&height=300&section=header)
 
 
 ## Hello, it is [Sevda 🔊](https://namedrop.io/sevdashukrieva) here! 
