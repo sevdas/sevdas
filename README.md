@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header)
+
+
 ## Hello, it is [Sevda 🔊](https://namedrop.io/sevdashukrieva) here! 
 
 I am an ex-fashion designer / physical product developer, passionate about building thoughtful things, branding, visual arts, and cognitive science.
