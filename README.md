@@ -31,5 +31,5 @@ and become a full-stack JavaScript developer.
 ## Interests ➿
 
 - 💁 When not coding, I enjoy cooking with friends and family, doodling, streaming arthouse cinema, being in the nature, reading non-fiction mostly memoirs, playing tennis 🎾, and listening to the music: [🎵 To see my public playlists you can click here! 🎵](https://open.spotify.com/user/ss_official)
-- Fun fact: I belive in singularity and do my daily choices based on sustainable facts. 
+- Fun fact: I do my daily choices based on sustainable facts. 
 
