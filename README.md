@@ -29,6 +29,6 @@ After seven years in the fashion industry, I pivoted to code - driven by a desir
 
 ## Interests ➿
 
-- 💁 When not coding, I enjoy cooking with friends and family, doodling, streaming arthouse cinema, being in nature, reading non-fiction mostly memoirs, playing tennis 🎾, and listening to music: [🎵 To see my public playlists you can click here! 🎵](https://open.spotify.com/user/ss_official)
-- Fun fact: I make my daily choices based on sustainable facts. 
+- 💁🏻‍♀️ Outside of coding, I love cooking with friends, exploring art and cinema, traveling, playing tennis 🎾, and getting lost in good books and music - 🎵 [here are my public playlists](https://open.spotify.com/user/ss_official) 🎵
+- Fun fact: I like things that last - whether it’s natural fabrics, good friends, or the memories I collect.
 
