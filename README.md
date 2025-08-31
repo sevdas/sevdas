@@ -9,6 +9,7 @@ After seven years in the fashion industry, I pivoted to code - driven by a desir
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-sshukrieva-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sshukrieva/) 
+
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-sevdas-informational?style=for-the-badge&logoColor=f4f6ef&color=fa2806)](https://sevdas.github.io/portfolio/)
 
 
