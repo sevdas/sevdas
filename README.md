@@ -3,7 +3,7 @@
 
 ## Hello, it is [Sevda 🔊](https://namedrop.io/sevdashukrieva) here! 
 
-I am a former fashion designer ( aka physical product developer ), passionate about building thoughtful products, branding, visual arts, and behavioral psychology.
+I am a former multidisciplinary fashion designer ( aka physical product developer ), passionate about building thoughtful products, branding, visual arts, and behavioral psychology.
 
 After several years (actually 7) in the fashion industry, I began to code to enhance my logical reasoning and problem-solving skills while creating more sustainably. Following several UX/UI principles, I build my portfolio website from scratch using vanilla JS. I then joined a community made out of great values, and emphasis on tech for good named [Founders and Coders](https://www.foundersandcoders.com/), which eventually led me to become a full-stack Javascript developer. 
 
