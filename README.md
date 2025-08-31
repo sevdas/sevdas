@@ -3,11 +3,13 @@
 
 ## Hello, it is [Sevda 🔊](https://namedrop.io/sevdashukrieva) here! 
 
-I am a former multidisciplinary fashion designer ( aka physical product developer ), passionate about building thoughtful products, branding, visual arts, and behavioral psychology.
+I’m a former multidisciplinary fashion designer turned Product Engineer, with a passion for building thoughtful products. My work lives at the intersection of design, culture, and technology - shaped by my background in branding and visual arts, and my curiosity about how people experience and interact with products.
 
-After several years (actually 7) in the fashion industry, I began to code to enhance my logical reasoning and problem-solving skills while creating more sustainably. Following several UX/UI principles, I build my portfolio website from scratch using vanilla JS. I then joined a community made out of great values, and emphasis on tech for good named [Founders and Coders](https://www.foundersandcoders.com/), which eventually led me to become a full-stack Javascript developer. 
+After seven years in the fashion industry, I pivoted to code - driven by a desire to expand my problem-solving skills and explore more innovative, future-minded ways of creating. Following UX/UI principles (and a little stubborn curiosity), I built my portfolio site from scratch using vanilla JS. That journey led me to [Founders and Coders](https://www.foundersandcoders.com/) - a community rooted in strong values and “tech for good”, where I grew into a full-stack JavaScript developer.
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-sshukrieva-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sshukrieva/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-sevdas-informational?style=for-the-badge&logoColor=f4f6ef&color=fa2806)](https://sevdas.github.io/portfolio/)
+
 
 
 ## Tech Stack 👩‍💻
